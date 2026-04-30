@@ -21,8 +21,8 @@ main
 .DS_Store
 
 # dotenv and secrets
-.env
-.env.*
 
 # Air build files
 tmp/
+config.bat
+node_modules
