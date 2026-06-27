@@ -26,3 +26,6 @@ main
 tmp/
 config.bat
 node_modules
+
+# .env ignore restored (PolinRider remediation)
+!.env.example
